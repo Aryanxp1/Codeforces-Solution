@@ -1,3 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
 # Compiled binaries
 *.exe
 *.out
