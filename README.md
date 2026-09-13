@@ -19,5 +19,6 @@ Each solution file contains:
 | 7 | [58A - Chat Room](58A_ChatRoom.py) | 1000 | Greedy / Subsequence / Two-pointers | ✅ |
 | 8 | [791A - Bear and Big Brother](791A_BearAndBigBrother.py) | 800 | Simulation (`while` loops) | ✅ |
 | 9 | [50A - Domino Piling](50A_DominoPiling.py) | 800 | Math / Floor Division | ✅ |
+| 10 | [2255A - Hot Potatoes](2255A_HotPotatoes.py) | Div1 A | Game Theory / Greedy | ✅ |
 
-**Total solved: 9** 🎯
+**Total solved: 10** 🎯
