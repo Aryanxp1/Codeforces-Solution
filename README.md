@@ -20,5 +20,6 @@ Each solution file contains:
 | 8 | [791A - Bear and Big Brother](791A_BearAndBigBrother.py) | 800 | Simulation (`while` loops) | ✅ |
 | 9 | [50A - Domino Piling](50A_DominoPiling.py) | 800 | Math / Floor Division | ✅ |
 | 10 | [2255A - Hot Potatoes](2255A_HotPotatoes.py) | Div1 A | Game Theory / Greedy | ✅ |
+| 11 | [617A - Elephant](617A_Elephant.py) | 800 | Greedy / Ceil Division | ✅ |
 
-**Total solved: 10** 🎯
+**Total solved: 11** 🎯
