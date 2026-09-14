@@ -21,5 +21,6 @@ Each solution file contains:
 | 9 | [50A - Domino Piling](50A_DominoPiling.py) | 800 | Math / Floor Division | ✅ |
 | 10 | [2255A - Hot Potatoes](2255A_HotPotatoes.py) | Div1 A | Game Theory / Greedy | ✅ |
 | 11 | [617A - Elephant](617A_Elephant.py) | 800 | Greedy / Ceil Division | ✅ |
+| 12 | [236A - Boy or Girl](236A_BoyOrGirl.py) | 800 | Sets / Distinct Characters | ✅ |
 
-**Total solved: 11** 🎯
+**Total solved: 12** 🎯
