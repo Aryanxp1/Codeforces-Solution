@@ -13,25 +13,25 @@ def main():
 
     for _ in range(t):
         n = int(data[pos])
-        k = int(data[pos + 1])          # k is actually irrelevant (see below)
+        k = int(data[pos + 1])          
         pos += 2
         s = data[pos]
         pos += 1
 
-        m = 2 * n                       # total cells on the circle
+        m = 2 * n                      
         red = 0
 
         for i in range(m):
             if s[i] != '1':
                 continue
-            nxt = s[(i + 1) % m]        # the cell clockwise in front of i
+            nxt = s[(i + 1) % m]        
             if nxt == '0':
-                # The potato can move in the final round: its CURRENT owner scores.
-                if i % 2 == 0:          # even index (0-based) = red team
+               
+                if i % 2 == 0:         
                     red += 1
             else:
-                # The potato is blocked: the OPPOSITE team scores.
-                if i % 2 == 1:          # odd index (0-based) = blue team
+                
+                if i % 2 == 1:         
                     red += 1
 
         total = s.count('1')
