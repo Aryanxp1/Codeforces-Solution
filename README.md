@@ -23,5 +23,6 @@ Each solution file contains:
 | 11 | [617A - Elephant](617A_Elephant.py) | 800 | Greedy / Ceil Division | ✅ |
 | 12 | [236A - Boy or Girl](236A_BoyOrGirl.py) | 800 | Sets / Distinct Characters | ✅ |
 | 13 | [96A - Football](96A_Football.py) | 900 | Consecutive Runs | ✅ |
+| 14 | [339A - Helpful Maths](339A_HelpfulMaths.py) | 800 | Parsing / Sorting | ✅ |
 
-**Total solved: 13** 🎯
+**Total solved: 14** 🎯
