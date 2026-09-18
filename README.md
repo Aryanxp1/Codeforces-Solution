@@ -24,5 +24,6 @@ Each solution file contains:
 | 12 | [236A - Boy or Girl](236A_BoyOrGirl.py) | 800 | Sets / Distinct Characters | ✅ |
 | 13 | [96A - Football](96A_Football.py) | 900 | Consecutive Runs | ✅ |
 | 14 | [339A - Helpful Maths](339A_HelpfulMaths.py) | 800 | Parsing / Sorting | ✅ |
+| 15 | [158A - Next Round](158A_NextRound.py) | 800 | Filtering / Counting | ✅ |
 
-**Total solved: 14** 🎯
+**Total solved: 15** 🎯
