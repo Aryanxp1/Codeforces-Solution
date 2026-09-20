@@ -25,5 +25,6 @@ Each solution file contains:
 | 13 | [96A - Football](96A_Football.py) | 900 | Consecutive Runs | ✅ |
 | 14 | [339A - Helpful Maths](339A_HelpfulMaths.py) | 800 | Parsing / Sorting | ✅ |
 | 15 | [158A - Next Round](158A_NextRound.py) | 800 | Filtering / Counting | ✅ |
+| 16 | [266A - Stones on the Table](266A_StonesOnTheTable.py) | 800 | Adjacent Pairs | ✅ |
 
-**Total solved: 15** 🎯
+**Total solved: 16** 🎯
