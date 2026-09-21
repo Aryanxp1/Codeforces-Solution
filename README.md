@@ -26,5 +26,6 @@ Each solution file contains:
 | 14 | [339A - Helpful Maths](339A_HelpfulMaths.py) | 800 | Parsing / Sorting | ✅ |
 | 15 | [158A - Next Round](158A_NextRound.py) | 800 | Filtering / Counting | ✅ |
 | 16 | [266A - Stones on the Table](266A_StonesOnTheTable.py) | 800 | Adjacent Pairs | ✅ |
+| 17 | [110A - Nearly Lucky Number](110A_NearlyLuckyNumber.py) | 800 | Digit Counting | ✅ |
 
-**Total solved: 16** 🎯
+**Total solved: 17** 🎯
