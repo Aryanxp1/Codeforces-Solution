@@ -27,5 +27,6 @@ Each solution file contains:
 | 15 | [158A - Next Round](158A_NextRound.py) | 800 | Filtering / Counting | ✅ |
 | 16 | [266A - Stones on the Table](266A_StonesOnTheTable.py) | 800 | Adjacent Pairs | ✅ |
 | 17 | [110A - Nearly Lucky Number](110A_NearlyLuckyNumber.py) | 800 | Digit Counting | ✅ |
+| 18 | [116A - Tram](116A_Tram.py) | 800 | Running Maximum | ✅ |
 
-**Total solved: 17** 🎯
+**Total solved: 18** 🎯
