@@ -29,5 +29,6 @@ Each solution file contains:
 | 17 | [110A - Nearly Lucky Number](110A_NearlyLuckyNumber.py) | 800 | Digit Counting | ✅ |
 | 18 | [116A - Tram](116A_Tram.py) | 800 | Running Maximum | ✅ |
 | 19 | [281A - Word Capitalization](281A_WordCapitalization.py) | 800 | String Mutation | ✅ |
+| 20 | [69A - Young Physicist](69A_YoungPhysicist.py) | 800 | Vector Sums | ✅ |
 
-**Total solved: 19** 🎯
+**Total solved: 20** 🎯
