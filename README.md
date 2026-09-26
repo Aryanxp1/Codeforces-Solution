@@ -30,5 +30,6 @@ Each solution file contains:
 | 18 | [116A - Tram](116A_Tram.py) | 800 | Running Maximum | ✅ |
 | 19 | [281A - Word Capitalization](281A_WordCapitalization.py) | 800 | String Mutation | ✅ |
 | 20 | [69A - Young Physicist](69A_YoungPhysicist.py) | 800 | Vector Sums | ✅ |
+| 21 | [118A - String Task](118A_StringTask.py) | 800 | Filter + Transform | ✅ |
 
-**Total solved: 20** 🎯
+**Total solved: 21** 🎯
