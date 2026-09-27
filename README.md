@@ -31,5 +31,6 @@ Each solution file contains:
 | 19 | [281A - Word Capitalization](281A_WordCapitalization.py) | 800 | String Mutation | ✅ |
 | 20 | [69A - Young Physicist](69A_YoungPhysicist.py) | 800 | Vector Sums | ✅ |
 | 21 | [118A - String Task](118A_StringTask.py) | 800 | Filter + Transform | ✅ |
+| 22 | [133A - HQ9+](133A_HQ9Plus.py) | 800 | Search / Set Membership | ✅ |
 
-**Total solved: 21** 🎯
+**Total solved: 22** 🎯
