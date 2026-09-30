@@ -32,5 +32,6 @@ Each solution file contains:
 | 20 | [69A - Young Physicist](69A_YoungPhysicist.py) | 800 | Vector Sums | ✅ |
 | 21 | [118A - String Task](118A_StringTask.py) | 800 | Filter + Transform | ✅ |
 | 22 | [133A - HQ9+](133A_HQ9Plus.py) | 800 | Search / Set Membership | ✅ |
+| 23 | [228A - Is your horseshoe on the other hoof?](228A_HorseshoeOnTheOtherHoof.py) | 800 | Sets / Counting Distinct | ✅ |
 
-**Total solved: 22** 🎯
+**Total solved: 23** 🎯
