@@ -33,5 +33,6 @@ Each solution file contains:
 | 21 | [118A - String Task](118A_StringTask.py) | 800 | Filter + Transform | ✅ |
 | 22 | [133A - HQ9+](133A_HQ9Plus.py) | 800 | Search / Set Membership | ✅ |
 | 23 | [228A - Is your horseshoe on the other hoof?](228A_HorseshoeOnTheOtherHoof.py) | 800 | Sets / Counting Distinct | ✅ |
+| 24 | [122A - Lucky Division](122A_LuckyDivision.py) | 1000 | Brute Force / Divisibility | ✅ |
 
-**Total solved: 23** 🎯
+**Total solved: 24** 🎯
