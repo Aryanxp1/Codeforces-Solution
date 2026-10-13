@@ -35,5 +35,6 @@ Each solution file contains:
 | 23 | [228A - Is your horseshoe on the other hoof?](228A_HorseshoeOnTheOtherHoof.py) | 800 | Sets / Counting Distinct | ✅ |
 | 24 | [122A - Lucky Division](122A_LuckyDivision.py) | 1000 | Brute Force / Divisibility | ✅ |
 | 25 | [59A - Word](59A_Word.py) | 800 | Case Counting | ✅ |
+| 26 | [43A - Football](43A_Football.py) | 800 | Frequency Counting | ✅ |
 
-**Total solved: 25** 🎯
+**Total solved: 26** 🎯
