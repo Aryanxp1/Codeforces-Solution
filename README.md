@@ -36,5 +36,6 @@ Each solution file contains:
 | 24 | [122A - Lucky Division](122A_LuckyDivision.py) | 1000 | Brute Force / Divisibility | ✅ |
 | 25 | [59A - Word](59A_Word.py) | 800 | Case Counting | ✅ |
 | 26 | [43A - Football](43A_Football.py) | 800 | Frequency Counting | ✅ |
+| 27 | [141A - Amusing Joke](141A_AmusingJoke.py) | 800 | Anagram / Counter equality | ✅ |
 
-**Total solved: 26** 🎯
+**Total solved: 27** 🎯
