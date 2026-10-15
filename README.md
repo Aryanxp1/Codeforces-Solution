@@ -37,5 +37,6 @@ Each solution file contains:
 | 25 | [59A - Word](59A_Word.py) | 800 | Case Counting | ✅ |
 | 26 | [43A - Football](43A_Football.py) | 800 | Frequency Counting | ✅ |
 | 27 | [141A - Amusing Joke](141A_AmusingJoke.py) | 800 | Anagram / Counter equality | ✅ |
+| 28 | [61A - Ultra-Fast Mathematician](61A_UltraFastMathematician.py) | 800 | Bitwise XOR | ✅ |
 
-**Total solved: 27** 🎯
+**Total solved: 28** 🎯
